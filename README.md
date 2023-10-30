@@ -1,1 +1,2 @@
 # ECE444-F2023-Lab5
+The pros of Test Driven Development are that it allows for a more modular design, making it easier to keep everything separate/independent. This makes it easier to debug and add more tests. It also keeps the code organized and easier to follow. Some cons are that the test code must be constantly altered based on requirement changes, and that it takes longer, since you are testing alongside developing 
